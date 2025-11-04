@@ -1,6 +1,6 @@
 # 🚀 Wazuh SIEM – Security Information & Event Management
 
-![Wazuh Logo](https://wazuh.com/assets/img/logos/wazuh-logo.svg)
+![Wazuh](https://img.shields.io/badge/Wazuh-2F7AE0?style=for-the-badge\&logo=logstash\&logoColor=white)
 
 ---
 
@@ -33,8 +33,6 @@ Wazuh operates in a **modular architecture**:
 2. **Wazuh Agent** – Installed on endpoints to collect logs, monitor files, and report events.
 3. **Wazuh Dashboard** – Visual interface for alert management, analytics, and reporting.
 4. **Integrations** – Works with Elastic Stack, SIEM solutions, cloud platforms, and threat intelligence feeds.
-
-![Wazuh Architecture](https://documentation.wazuh.com/current/_images/architecture.png)
 
 ---
 
